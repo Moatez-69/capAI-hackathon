@@ -1,0 +1,361 @@
+{
+  "name": "Moatez Ben Slimen",
+  "linkedin": {
+    "url": "https://www.linkedin.com/in/moatez-ben-slimen/",
+    "member_id": "701246176",
+    "public_id": "moatez-ben-slimen",
+    "headline": "Master\u2019s Student in Cybersecurity | Computer Science graduate  | CTF Player",
+    "location": "Nabeul, Tunisia",
+    "country_code": "TN",
+    "about": "A dedicated computer science student passionate about cybersecurity, Capture The Flag (CTF) competitions, and innovative problem-solving. Known for expertise in Python scripting, web development, and team management. Striving to contribute to the cybersecurity domain through hands-on experience and technical proficiency.",
+    "profile_image_url": "https://visum-images.fra1.cdn.digitaloceanspaces.com/profile-photos/prs_01kgzecq70fv9sev8mhgks72nd",
+    "background_image_url": null,
+    "followers_count": 1264,
+    "connections_count": 1242,
+    "is_open_to_work": false,
+    "has_premium": false,
+    "has_verification_badge": false,
+    "creation_date": null,
+    "pronoun": null,
+    "spoken_languages": [],
+    "experience": [
+      {
+        "title": "End of studies internship",
+        "company": "Innovation Technology Consulting",
+        "contract_type": "Internship",
+        "duration": "2025 \u2013 2025",
+        "location": null,
+        "description": "Developed a Vulnerability Operation Center platform to monitor, analyze, and manage security vulnerabilities using Next.js, Node.js, PostgreSQL, and Prisma ORM.",
+        "company_linkedin_url": "https://www.linkedin.com/company/innovation-technology-consulting",
+        "company_logo_url": "https://visum-images.fra1.cdn.digitaloceanspaces.com/logo-companies/com_01jfgmhq41fv1b0q7zx49x2f0d",
+        "company_data": {
+          "name": "Innovation Technology Consulting",
+          "linkedin_url": "https://www.linkedin.com/company/innovation-technology-consulting",
+          "website_url": "http://www.itc-consulting.net",
+          "description": "We Are ITC\nWe contribute to enhance our client cybersecurity by providing advisory and audit services.",
+          "industry": "Computer and Network Security",
+          "employees_count": 13,
+          "employee_count_range": "2\u201310",
+          "followers_count": 2133,
+          "founded_year": 2015,
+          "headquarters": "Tunis, TN",
+          "tagline": null,
+          "specialities": []
+        }
+      },
+      {
+        "title": "Pr\u00e9sident",
+        "company": "Securinets ISI",
+        "contract_type": null,
+        "duration": "2023 \u2013 2024",
+        "location": null,
+        "description": "- As the President of Securinets ISI, organized multiple events:\n  - SecuriCON\n  - Securinets ISI QUALS\n  - Securinets ISI mini-CTF\n  - Securinets ISI Guided-CTF\n  - Alongside these events, our technical team presented workshops to further enrich the learning experience.",
+        "company_linkedin_url": "https://www.linkedin.com/company/securinetsisi",
+        "company_logo_url": "https://visum-images.fra1.cdn.digitaloceanspaces.com/logo-companies/com_01jgjpwvehe21sqe150qkm2kvx",
+        "company_data": {
+          "name": "Securinets ISI",
+          "linkedin_url": "https://www.linkedin.com/company/securinetsisi",
+          "website_url": null,
+          "description": "ISI Branch of the first National Association of Cyber Security in Tunisia. Founded in 2003 in the National Institute of Applied Sciences and Technologies and based in in the Higher Institute of Computer Science in 2014.",
+          "industry": "Computer and Network Security",
+          "employees_count": 30,
+          "employee_count_range": "51\u2013200",
+          "followers_count": 1401,
+          "founded_year": 2014,
+          "headquarters": "Ariana, TN",
+          "tagline": "The ISI Branch of Securinets, The first National Association of Cyber Security in Tunisia since 2003.",
+          "specialities": [
+            "cyber security",
+            "ctf"
+          ]
+        }
+      }
+    ],
+    "education": [
+      {
+        "institution": "SMU - South Mediterranean University (MSB- MedTech-LCI)",
+        "degree": "Master's degree",
+        "field": "Cybersecurity",
+        "years": "2025 \u2013 2027",
+        "description": null,
+        "grade": null,
+        "school_url": null
+      },
+      {
+        "institution": "Higher Institute of Computer Science - Tunisia (ISI)",
+        "degree": "Licence",
+        "field": "Sciences informatiques et de l''information,  g\u00e9n\u00e9ral",
+        "years": "2022 \u2013 2025",
+        "description": "Specialized in software engineering with a strong focus on cybersecurity. Actively involved in organizing and participating in national and international competitions, workshops, and community events.",
+        "grade": null,
+        "school_url": null
+      },
+      {
+        "institution": "SMU - South Mediterranean University (MSB- MedTech-LCI)",
+        "degree": null,
+        "field": null,
+        "years": null,
+        "description": null,
+        "grade": null,
+        "school_url": null
+      }
+    ],
+    "skills": [
+      "Next.js",
+      "Anglais",
+      "Cybers\u00e9curit\u00e9",
+      "Organisations \u00e0 but non lucratif",
+      "Gestion des vuln\u00e9rabilit\u00e9s",
+      "D\u00e9veloppement d\u2019applications web"
+    ],
+    "certifications": [],
+    "recommendations": [],
+    "test_scores": []
+  },
+  "github": {
+    "username": "Moatez-69",
+    "profile": {
+      "username": "Moatez-69",
+      "bio": null,
+      "followers": 5,
+      "following": 6,
+      "public_repos": 8,
+      "location": null,
+      "company": null,
+      "blog": "",
+      "avatar_url": "https://avatars.githubusercontent.com/u/130186087?v=4"
+    },
+    "repositories": [
+      {
+        "name": "capAI-hackathon",
+        "description": null,
+        "readme": "# capAI-hackathon",
+        "language": null,
+        "language_bytes": {},
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "created_at": "2026-05-16T21:24:58Z",
+        "updated_at": "2026-05-16T21:25:28Z",
+        "url": "https://github.com/Moatez-69/capAI-hackathon"
+      },
+      {
+        "name": "moatez-69",
+        "description": null,
+        "readme": "#  About Me:\ni'm currently doing my master in cybersecurity<br>building AI and ML knowledge this year<br>pentest and soc fundamentals <br>open for reasearch<br>\n\n\n# \ud83d\udcbb Tech Stack:\n![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=f",
+        "language": null,
+        "language_bytes": {},
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "created_at": "2026-02-21T12:14:26Z",
+        "updated_at": "2026-04-10T12:31:17Z",
+        "url": "https://github.com/Moatez-69/moatez-69"
+      },
+      {
+        "name": "claude-bug-bounty",
+        "description": "Claude Code skill for AI-assisted bug bounty hunting \u2014 recon, IDOR, XSS, SSRF, OAuth, GraphQL, LLM injection, and report generation",
+        "readme": "<div align=\"center\">\n\n<img src=\"https://img.shields.io/badge/Claude_Code-Skill-orange?style=for-the-badge&logo=anthropic&logoColor=white\" />\n<img src=\"https://img.shields.io/badge/Bug%20Bounty-HackerOne%20%7C%20Bugcrowd%20%7C%20Intigriti-red?style=for-the-badge\" />\n<img src=\"https://img.shields.io/badge/Platform-macOS%20%7C%20Linux-blue?style=for-the-badge&logo=linux&logoColor=white\" />\n\n# Claude Bug Bounty Hunter\n\n**A Claude Code skill that turns Claude into your AI bug bounty co-pilot.** Point it at any target and Claude maps the attack surface, runs your scanners, validates findings, and writes the HackerOne or Bugcrowd report \u2014 all from a single conversation.\n\n[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)\n[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://python.org)\n[![Stars](https://img.shields.io/github/stars/shuvonsec/claude-bug-bounty?style=social)](https://github.com/shuvonsec/claude-bug-bounty/stargazers)\n\n[Quick Start](#quick-start) \u00b7 [Tools](#tool-reference) \u00b7 [Pipeline](#full-hunt-pipeline) \u00b7 [Claude Prompts](#claude-prompts) \u00b7 [Install](#installation)\n\n## The Trilogy\n\n| Repo | What It Does |\n|------|-------------|\n| **[claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)** \u2190 you are here | AI-assisted web2 + web3 bug bounty \u2014 recon, scanning, validation, report writing |\n| **[web3-bug-bounty-hunting-ai-skills](https://github.com/shuvonsec/web3-bug-bounty-hunting-ai-skills)** | Smart contract security skills for Claude \u2014 10 bug classes, Foundry PoC templates, real Immunefi case studies |\n| **[public-skills-builder](https://github.com/shuvonsec/public-skills-builder)** | Feed 500 public writeups \u2192 get skill files back out |\n\nUse all three together: `public-skills-builder` generates skills \u2192 `web3-bounty-ai-skills` holds the knowledge \u2192 `claude-bug-bounty` runs the hunt.\n\n## Also in This Repo\n\n| File | What's Inside |\n|------|--------------|\n| [`SKILL.md`](SKILL.md) | Installable Claude Code skill \u2014 full hunting methodology, recon, validation, reporting |\n| [`docs/payloads.md`](docs/payloads.md) | Complete payload arsenal \u2014 XSS, SQLi, SSRF, XXE, SSTI, SAML, JWT, CSRF, race conditions, and more |\n| [`docs/smart-contract-audit.md`](docs/smart-contract-audit.md) | Web3 audit guide \u2014 Immunefi workflow, EVM/Solana/CosmWasm, Foundry PoC templates, real paid writeups |\n| [`web3/`](web3/) | Full smart contract security skill chain \u2014 10 bug classes, Foundry PoC templates, case studies, AI tools |\n| [`CLAUDE_INTEGRATION.md`](CLAUDE_INTEGRATION.md) | Claude API integration examples |\n\n</div>\n\n---\n\n## What It Does\n\n```\nTarget \u2192 Recon \u2192 Intel \u2192 Hunt \u2192 Validate \u2192 Report \u2192 Submit\n```\n\nEvery step is Claude-assisted. Drop into Claude Code, point it at a target, and it will:\n\n- Enumerate subdomains, live hosts, and crawl endpoints\n- Pull CVEs and disclosed H1 reports for the detected tech stack\n- Generate a prioritized attack mindmap\n- Run scanners for IDOR, SSRF, XSS, SQLi, OAuth",
+        "language": null,
+        "language_bytes": {
+          "Python": 252251,
+          "Shell": 63477,
+          "JavaScript": 6327
+        },
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "created_at": "2026-03-13T10:27:18Z",
+        "updated_at": "2026-03-13T10:27:18Z",
+        "url": "https://github.com/Moatez-69/claude-bug-bounty"
+      },
+      {
+        "name": "forgot-me",
+        "description": null,
+        "readme": "<p align=\"center\">\n<!-- Optional banner (put your own image in pictures/banner.png) -->\n<!-- <img src=\"pictures/banner.png\" /> -->\n</p>\n\n<h1 align=\"center\">\ud83e\udde0 Forgot me?</h1>\n\n<p align=\"center\">\n<b>A local-first personal cognitive assistant that scans your files, understands them with a local LLM, and lets you query your private knowledge base in natural language.</b>\n</p>\n\n<p align=\"center\">\n<img src=\"https://img.shields.io/badge/status-active-success\">\n<img src=\"https://img.shields.io/badge/privacy-local--only-blue\">\n<img src=\"https://img.shields.io/badge/LLM-Qwen2.5--3B-informational\">\n<img src=\"https://img.shields.io/badge/platform-Android%20%7C%20Docker-lightgrey\">\n</p>\n\n<p align=\"center\">\n<img src=\"https://skillicons.dev/icons?i=python,fastapi,docker,sqlite,react,typescript,linux,git\" />\n</p>\n\n---\n\n## \ud83d\ude80 What is Forgot me??\n\n**Forgot me?** is a **local-first personal cognitive assistant** that scans documents, images, audio, and calendar files on your phone, generates semantic descriptions using a local LLM (Qwen2.5-3B via Ollama), stores them in a vector database, and enables intelligent, self-verified retrieval.\n\nIt also proactively extracts upcoming events and deadlines and can notify you via Discord.\n\n> **No data ever leaves your network. Everything runs locally.**\n\n---\n\n## \ud83c\udfd7\ufe0f Architecture\n\n```\nPhone (Expo Go)                    Your Machine (Docker)\n+------------------+               +---------------------------+\n|  React Native    |  HTTP/JSON    |  FastAPI Backend           |\n|  Mobile App      | ------------> |  :8000                     |\n|                  |               |                            |\n|  - Scan folders  |               |  +-- Storage Agent ------+ |\n|  - Queue files   |               |  | Detect modality       | |\n|  - Query files   |               |  | Extract content       | |\n|  - Browse memory |               |  | LLM description       | |\n|  - View events   |               |  | LLM event extraction  | |\n+------------------+               |  | Embed + store         | |\n                                   |  +------------------------+ |\n                                   |                            |\n                                   |  ChromaDB    (vectors)     |\n                                   |  SQLite      (events)      |\n                                   |  Ollama      (Qwen2.5-3B)  |\n                                   +----------------------------+\n```\n\n---\n\n## \u2728 Features\n\n- Multi-modal file processing\n- Foreground processing queue\n- Smart queue management\n- Semantic search\n- Natural language Q&A\n- Self-verification\n- Event extraction\n- Discord webhook notifications\n- Category tagging\n- Privacy-first\n- Persistent storage\n\n---\n\n## Tech Stack\n\n### Backend\n\n| Component | Technology | Purpose |\n|-----------|------------|---------|\n| Framework | FastAPI + Uvicorn | REST API server |\n| Vector DB | ChromaDB (persistent mode) | Semantic search over file descriptions |\n| Embeddings | all-MiniLM-L6-v2 (sentence",
+        "language": "TypeScript",
+        "language_bytes": {
+          "TypeScript": 148410,
+          "Python": 108214,
+          "HTML": 31462,
+          "Kotlin": 4217,
+          "Dockerfile": 707,
+          "JavaScript": 238
+        },
+        "stars": 4,
+        "forks": 0,
+        "topics": [],
+        "created_at": "2026-02-14T19:44:48Z",
+        "updated_at": "2026-03-01T16:07:34Z",
+        "url": "https://github.com/Moatez-69/forgot-me"
+      },
+      {
+        "name": "terminal-portfolio",
+        "description": null,
+        "readme": "# 3angour's Terminal Portfolio\n\nA modern, terminal-themed portfolio website built with Next.js, featuring CTF writeups, cybersecurity projects, and professional information.\n\n## \ud83d\ude80 Features\n\n- **Terminal-inspired design** with three beautiful themes\n- **Multi-theme support**: Terminal (green), Blue, and Light themes\n- **Responsive design** that works on all devices\n- **Blog system** with Markdown support for CTF writeups\n- **Project showcase** with detailed descriptions\n- **Contact form** with modern styling\n- **Fast performance** with Next.js App Router\n- **SEO optimized** with proper meta tags\n\n## \ud83c\udfa8 Themes\n\n### Terminal Theme (Default)\n- Classic green-on-black terminal aesthetic\n- Perfect for cybersecurity professionals\n\n### Blue Theme\n- Modern blue and red color scheme\n- Professional and eye-catching\n\n### Light Theme\n- Clean white background with blue accents\n- Great for readability and presentations\n\n## \ud83d\udee0\ufe0f Tech Stack\n\n- **Framework**: Next.js 14 with App Router\n- **Styling**: Tailwind CSS\n- **UI Components**: shadcn/ui\n- **Content**: Markdown with gray-matter\n- **Typography**: Custom monospace fonts\n- **Icons**: Lucide React\n- **Deployment**: Vercel-ready\n\n## \ud83d\udcc1 Project Structure\n\n```\nblog/\n\u251c\u2500\u2500 app/\n\u2502   \u251c\u2500\u2500 (site)/\n\u2502   \u2502   \u251c\u2500\u2500 about/\n\u2502   \u2502   \u251c\u2500\u2500 blog/\n\u2502   \u2502   \u251c\u2500\u2500 contact/\n\u2502   \u2502   \u251c\u2500\u2500 projects/\n\u2502   \u2502   \u2514\u2500\u2500 page.tsx\n\u2502   \u251c\u2500\u2500 globals.css\n\u2502   \u2514\u2500\u2500 layout.tsx\n\u251c\u2500\u2500 components/\n\u2502   \u251c\u2500\u2500 ui/\n\u2502   \u251c\u2500\u2500 layout.tsx\n\u2502   \u251c\u2500\u2500 navbar.tsx\n\u2502   \u2514\u2500\u2500 themeToggle.tsx\n\u251c\u2500\u2500 content/\n\u2502   \u2514\u2500\u2500 blog/\n\u2502       \u2514\u2500\u2500 *.md\n\u251c\u2500\u2500 lib/\n\u2502   \u2514\u2500\u2500 posts.ts\n\u251c\u2500\u2500 public/\n\u2502   \u2514\u2500\u2500 avatar.png\n\u2514\u2500\u2500 styles/\n    \u2514\u2500\u2500 globals.css\n```\n\n## \ud83d\ude80 Getting Started\n\n### Prerequisites\n\n- Node.js 18+ \n- npm, yarn, or pnpm\n\n### Installation\n\n1. **Clone the repository**\n   ```bash\n   git clone https://github.com/3angour/terminal-portfolio.git\n   cd terminal-portfolio\n   ```\n\n2. **Install dependencies**\n   ```bash\n   npm install\n   # or\n   yarn install\n   # or\n   pnpm install\n   ```\n\n3. **Run the development server**\n   ```bash\n   npm run dev\n   # or\n   yarn dev\n   # or\n   pnpm dev\n   ```\n\n4. **Open your browser**\n   Navigate to [http://localhost:3000](http://localhost:3000)\n\n## \ud83d\udcdd Adding Content\n\n### Blog Posts\n\nCreate new blog posts in the `content/blog/` directory:\n\n```markdown\n---\ntitle: \"Your CTF Writeup Title\"\ndate: \"2025-01-15\"\n---\n\n# Your CTF Writeup\n\nYour content here...\n\n```python\n# Code examples work great\nprint(\"Hello CTF!\")\n```\n```\n\n### Projects\n\nEdit `app/(site)/projects/page.tsx` to add new projects to the showcase.\n\n### Personal Information\n\nUpdate your information in:\n- `app/(site)/about/page.tsx` - About page content\n- `app/(site)/contact/page.tsx` - Contact information\n- `components/navbar.tsx` - Navigation links\n\n## \ud83c\udfa8 Customization\n\n### Themes\n\nModify theme colors in `tailwind.config.js`:\n\n```javascript\ncolors: {\n  // Terminal theme\n  \"terminal-bg\": \"#0a0a0a\",\n  \"terminal-text\": \"#00ff00\",\n  \"terminal-accent\": \"#00ff00\",\n  \n  // Blue theme\n  \"bluef-bg\": \"#1a1a2e\",\n  \"bluef-text\": \"#e94560\",\n  \"bluef",
+        "language": "TypeScript",
+        "language_bytes": {
+          "TypeScript": 241067,
+          "CSS": 13491,
+          "JavaScript": 2685
+        },
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "created_at": "2025-06-25T12:49:30Z",
+        "updated_at": "2026-01-13T11:35:40Z",
+        "url": "https://github.com/Moatez-69/terminal-portfolio"
+      },
+      {
+        "name": "app-sec-project",
+        "description": null,
+        "readme": "# app-sec-project",
+        "language": "Python",
+        "language_bytes": {
+          "Python": 20695,
+          "HTML": 8824,
+          "CSS": 6757,
+          "Dockerfile": 788
+        },
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "created_at": "2025-12-02T17:21:34Z",
+        "updated_at": "2025-12-03T07:15:37Z",
+        "url": "https://github.com/Moatez-69/app-sec-project"
+      },
+      {
+        "name": "quiznet-tcp-udp",
+        "description": null,
+        "readme": "# quiznet-tcp-udp",
+        "language": "Python",
+        "language_bytes": {
+          "Python": 55523255,
+          "C++": 5064005,
+          "Cython": 2087514,
+          "C": 517042,
+          "Fortran": 40333,
+          "JavaScript": 12806,
+          "PowerShell": 9033,
+          "Smarty": 8486,
+          "Meson": 4589,
+          "Shell": 3147,
+          "CMake": 2547,
+          "Jinja": 1570,
+          "HTML": 1547,
+          "Batchfile": 676
+        },
+        "stars": 0,
+        "forks": 2,
+        "topics": [],
+        "created_at": "2025-10-24T09:44:45Z",
+        "updated_at": "2025-11-07T20:03:21Z",
+        "url": "https://github.com/Moatez-69/quiznet-tcp-udp"
+      },
+      {
+        "name": "writeups",
+        "description": null,
+        "readme": null,
+        "language": null,
+        "language_bytes": {},
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "created_at": "2023-11-24T21:25:48Z",
+        "updated_at": "2023-11-24T21:25:49Z",
+        "url": "https://github.com/Moatez-69/writeups"
+      }
+    ],
+    "organizations": [],
+    "languages": [
+      "Python",
+      "C++",
+      "Cython",
+      "C",
+      "TypeScript",
+      "Shell",
+      "HTML",
+      "Fortran",
+      "JavaScript",
+      "CSS",
+      "PowerShell",
+      "Smarty",
+      "Meson",
+      "Kotlin",
+      "CMake",
+      "Jinja",
+      "Dockerfile",
+      "Batchfile"
+    ],
+    "language_bytes_total": {
+      "Python": 55904415,
+      "C++": 5064005,
+      "Cython": 2087514,
+      "C": 517042,
+      "TypeScript": 389477,
+      "Shell": 66624,
+      "HTML": 41833,
+      "Fortran": 40333,
+      "JavaScript": 22056,
+      "CSS": 20248,
+      "PowerShell": 9033,
+      "Smarty": 8486,
+      "Meson": 4589,
+      "Kotlin": 4217,
+      "CMake": 2547,
+      "Jinja": 1570,
+      "Dockerfile": 1495,
+      "Batchfile": 676
+    },
+    "recent_activity": [
+      {
+        "type": "CreateEvent",
+        "repo_name": "Moatez-69/capAI-hackathon",
+        "created_at": "2026-05-16T21:25:26Z"
+      },
+      {
+        "type": "WatchEvent",
+        "repo_name": "serenakeyitan/awesome-notebookLM-prompts",
+        "created_at": "2026-05-14T10:54:25Z"
+      },
+      {
+        "type": "WatchEvent",
+        "repo_name": "PurpleAILAB/Decepticon",
+        "created_at": "2026-05-06T23:47:28Z"
+      },
+      {
+        "type": "WatchEvent",
+        "repo_name": "usestrix/strix",
+        "created_at": "2026-05-06T23:46:06Z"
+      },
+      {
+        "type": "WatchEvent",
+        "repo_name": "JuliusBrussee/caveman",
+        "created_at": "2026-05-02T09:41:39Z"
+      }
+    ]
+  },
+  "web_presence": {
+    "personal_website": null,
+    "startup_website": null,
+    "twitter_handle": null,
+    "technologies": [],
+    "social_links": [],
+    "page_title": null,
+    "meta_description": null
+  },
+  "product_hunt": null,
+  "devto": null,
+  "metadata": {
+    "collected_at": "2026-05-16T23:01:21.301676+00:00",
+    "sources": [
+      "linkedin",
+      "github"
+    ],
+    "missing_fields": [
+      "web",
+      "product_hunt",
+      "devto"
+    ]
+  }
+}
