@@ -1,0 +1,233 @@
+{
+  "fullName": "Kais AbaaB",
+  "headline": "IoT & AI Systems Engineer | IEEE Leader | Building Autonomous Embedded Systems",
+  "about": "Computer Systems Engineering student focused on IoT, embedded AI, cybersecurity, and distributed autonomous systems. Passionate about building scalable hardware-software infrastructures combining ESP32 ecosystems, Raspberry Pi systems, machine learning, and real-time networking. Active IEEE leader with experience organizing hackathons, leading technical teams, and developing intelligent traffic systems, OTA infrastructures, and swarm communication architectures.",
+  "location": "Tunis, Tunisia",
+  "connections": 764,
+  "followers": 528,
+
+  "linkedin": {
+    "username": "kais-abaab",
+    "url": "https://www.linkedin.com/in/kais-abaab",
+    "profileId": "ACoAADxKxYMB2x",
+    "isVerified": false
+  },
+
+  "github": {
+    "username": "kaisaitech",
+    "url": "https://github.com/kaisaitech",
+    "followers": 143,
+    "following": 58,
+    "publicRepos": 37,
+    "stars": 412,
+    "topLanguages": [
+      "C++",
+      "Python",
+      "JavaScript",
+      "Embedded C",
+      "TypeScript"
+    ],
+    "pinnedRepositories": [
+      {
+        "name": "RoidOTA",
+        "description": "Custom OTA platform for ESP32 fleets using MQTT and HTTP firmware delivery.",
+        "language": "C++",
+        "stars": 86,
+        "forks": 11,
+        "url": "https://github.com/kaisaitech/RoidOTA"
+      },
+      {
+        "name": "smart-traffic-ai",
+        "description": "AI-powered smart traffic light system using Raspberry Pi, ESP32, Firebase, and computer vision.",
+        "language": "Python",
+        "stars": 121,
+        "forks": 19,
+        "url": "https://github.com/kaisaitech/smart-traffic-ai"
+      },
+      {
+        "name": "esp32-telegram-cam",
+        "description": "Motion-triggered ESP32-CAM security system with Telegram integration.",
+        "language": "C++",
+        "stars": 34,
+        "forks": 5,
+        "url": "https://github.com/kaisaitech/esp32-telegram-cam"
+      }
+    ]
+  },
+
+  "experience": [
+    {
+      "title": "Treasurer",
+      "company": "IEEE Robotics and Automation Society - SMU",
+      "startDate": {
+        "year": 2025,
+        "month": 3
+      },
+      "endDate": null,
+      "isCurrent": true,
+      "description": "Managing financial operations, sponsorship coordination, and strategic planning for IEEE RAS activities and technical events."
+    },
+    {
+      "title": "Junior Research Assistant",
+      "company": "MedTech Research Lab",
+      "startDate": {
+        "year": 2025,
+        "month": 2
+      },
+      "endDate": null,
+      "isCurrent": true,
+      "description": "Working on a photobioreactor research project involving hardware integration, circuit design, embedded systems, and sustainable technology development."
+    },
+    {
+      "title": "Hackathon Organizer",
+      "company": "TechRevive",
+      "startDate": {
+        "year": 2025,
+        "month": 3
+      },
+      "endDate": {
+        "year": 2025,
+        "month": 5
+      },
+      "isCurrent": false,
+      "description": "Organized a sustainability-focused hackathon promoting the reuse of electronic waste through innovative engineering projects."
+    }
+  ],
+
+  "education": [
+    {
+      "school": "South Mediterranean University",
+      "degree": "Bachelor of Engineering",
+      "fieldOfStudy": "Computer Systems Engineering",
+      "startDate": {
+        "year": 2023
+      },
+      "endDate": null,
+      "isCurrent": true,
+      "description": "Focused on embedded systems, AI infrastructure, networking, IoT, and advanced mathematics."
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "RoidOTA",
+      "description": "Custom OTA firmware management infrastructure for ESP32 fleets with scalable deployment support.",
+      "technologies": [
+        "ESP32",
+        "MQTT",
+        "HTTP",
+        "PlatformIO",
+        "C++"
+      ],
+      "url": "https://github.com/kaisaitech/RoidOTA"
+    },
+    {
+      "name": "Smart Traffic AI System",
+      "description": "Distributed smart traffic control architecture using Firebase, ESP32 modules, Raspberry Pi, and AI-based traffic density analysis.",
+      "technologies": [
+        "Firebase",
+        "ESP32",
+        "Raspberry Pi",
+        "Python",
+        "Computer Vision"
+      ],
+      "url": "https://github.com/kaisaitech/smart-traffic-ai"
+    },
+    {
+      "name": "Swarm Delivery System",
+      "description": "Research project exploring decentralized autonomous delivery systems using PC5 sidelink communication.",
+      "technologies": [
+        "IoT",
+        "Distributed Systems",
+        "Embedded AI",
+        "Wireless Networking"
+      ],
+      "url": null
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Embedded Systems",
+      "endorsements": 34
+    },
+    {
+      "name": "IoT Architecture",
+      "endorsements": 29
+    },
+    {
+      "name": "ESP32 Development",
+      "endorsements": 41
+    },
+    {
+      "name": "Machine Learning",
+      "endorsements": 18
+    },
+    {
+      "name": "Cybersecurity",
+      "endorsements": 16
+    },
+    {
+      "name": "Python",
+      "endorsements": 39
+    },
+    {
+      "name": "C++",
+      "endorsements": 44
+    },
+    {
+      "name": "System Design",
+      "endorsements": 22
+    },
+    {
+      "name": "Hardware Engineering",
+      "endorsements": 27
+    },
+    {
+      "name": "Leadership",
+      "endorsements": 20
+    },
+    {
+      "name": "Event Management",
+      "endorsements": 13
+    },
+    {
+      "name": "Reverse Engineering",
+      "endorsements": 11
+    }
+  ],
+
+  "certifications": [
+    {
+      "name": "CS50 Introduction to Artificial Intelligence",
+      "issuer": "Harvard University",
+      "year": 2025
+    },
+    {
+      "name": "IoT Fundamentals",
+      "issuer": "Cisco Networking Academy",
+      "year": 2024
+    }
+  ],
+
+  "publications": [],
+
+  "patents": [],
+
+  "awards": [
+    "IEEE Technical Leadership Recognition 2025",
+    "Hackathon Finalist — AI Healthcare Assistant 2025"
+  ],
+
+  "volunteer": [
+    {
+      "role": "Technical Mentor",
+      "organization": "IEEE Student Branch",
+      "startDate": {
+        "year": 2025
+      },
+      "endDate": null,
+      "description": "Helping junior students learn embedded systems, IoT development, and hardware prototyping."
+    }
+  ]
+}

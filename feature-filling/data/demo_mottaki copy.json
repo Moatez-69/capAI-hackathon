@@ -1,0 +1,67 @@
+{
+  "name": "Scott Penberthy",
+  "linkedin": null,
+  "github": {
+    "username": "drscott173",
+    "profile": {
+      "username": "drscott173",
+      "bio": "I spend my time turning Machine Learning dreams into astonishing realities on Wall Street.",
+      "followers": 19,
+      "following": 4,
+      "public_repos": 29,
+      "location": "New York",
+      "company": "Google",
+      "blog": "",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112682?v=4"
+    },
+    "repositories": [
+      {
+        "name": "ml_capstone",
+        "description": "Capstone project for my Udacity Machine Learning Nanodegree",
+        "readme": "# PacFlow\n## Pedagogical Autonomous Cars with TensorFlow\n\nThis project was submitted in partial fulfillment\nof the Udacity Machine Learning Engineer Nanodegree.\n\nScott Penberthy\nNovember 1, 2016",
+        "language": "Python",
+        "language_bytes": {
+          "Python": 43407
+        },
+        "stars": 12,
+        "forks": 3,
+        "topics": [],
+        "created_at": "2016-10-19T13:11:32Z",
+        "updated_at": "2019-11-27T09:31:50Z",
+        "url": "https://github.com/drscott173/ml_capstone"
+      },
+      {
+        "name": "spaceml",
+        "description": "spaceml",
+        "readme": "# SpaceML\n\nWe are building a platform for citizen science in space called \"SpaceML.\"",
+        "language": "Jupyter Notebook",
+        "language_bytes": {
+          "Jupyter Notebook": 2230593,
+          "Dockerfile": 7193,
+          "Shell": 4166
+        },
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "created_at": "2019-01-05T19:51:05Z",
+        "updated_at": "2019-02-12T23:08:33Z",
+        "url": "https://github.com/drscott173/spaceml"
+      },
+      {
+        "name": "xkcd",
+        "description": "Jupyterlab extension \"hello world\"",
+        "readme": "# xkcd",
+        "language": "TypeScript",
+        "language_bytes": {
+          "TypeScript": 400
+        },
+        "stars": 0,
+        "forks": 0,
+        "topics": [],
+        "created_at": "2018-06-23T21:14:24Z",
+        "updated_at": "2018-06-23T21:38:01Z",
+        "url": "https://github.com/drscott173/xkcd"
+      }
+    ]
+  }
+}
