@@ -181,5 +181,5 @@ class FounderProfile(BaseModel):
 
 class FounderInput(BaseModel):
     name: str
-    linkedin_url: str
+    linkedin_url: Optional[str] = None
     github_username: Optional[str] = None

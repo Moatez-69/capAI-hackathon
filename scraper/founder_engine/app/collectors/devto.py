@@ -55,6 +55,27 @@ def _fetch_articles(username: str) -> list[DevToArticle]:
     return []
 
 
+def _name_matches(user: dict, full_name: str, username: str) -> bool:
+    """Verify the DEV.to profile actually matches the founder."""
+    expected_parts = full_name.lower().split()
+    profile_name = (user.get("name") or "").lower()
+
+    # all name parts must appear in profile name
+    all_match = all(part in profile_name for part in expected_parts)
+    if all_match:
+        return True
+
+    # if username is a single common word (e.g. "scott"), require full name match
+    if len(username) < 8 and "_" not in username:
+        return False
+
+    # at least first AND last name must match
+    if len(expected_parts) >= 2:
+        return expected_parts[0] in profile_name and expected_parts[-1] in profile_name
+
+    return False
+
+
 def collect_devto(name: str, github_username: Optional[str] = None) -> Optional[DevToData]:
     candidates = _username_candidates(name)
     if github_username:
@@ -63,6 +84,9 @@ def collect_devto(name: str, github_username: Optional[str] = None) -> Optional[
     for username in candidates:
         user = _fetch_user(username)
         if user and not user.get("error"):
+            if not _name_matches(user, name, username):
+                print(f"[devto] @{username} exists but name '{user.get('name')}' doesn't match '{name}' — skipping")
+                continue
             print(f"[devto] found profile: @{username}")
             articles = _fetch_articles(username)
             return DevToData(

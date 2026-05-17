@@ -24,11 +24,16 @@ def _search_username(name: str) -> Optional[str]:
         if resp.status_code != 200:
             return None
         soup = BeautifulSoup(resp.text, "html.parser")
-        # look for profile links like /u/username or /@username
-        links = soup.find_all("a", href=re.compile(r"/@[A-Za-z0-9_]+"))
+        # look for profile links like /@username — must be a clean profile URL, not subpages
+        links = soup.find_all("a", href=re.compile(r"^/@[A-Za-z0-9_]+$"))
         if links:
             href = links[0].get("href", "")
             handle = href.lstrip("/@")
+            # verify the linked name contains part of the founder name
+            link_text = (links[0].get_text(strip=True) or "").lower()
+            name_parts = name.lower().split()
+            if not any(part in link_text for part in name_parts if len(part) > 2):
+                return None
             return handle
     except Exception:
         pass

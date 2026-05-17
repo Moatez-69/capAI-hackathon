@@ -9,7 +9,7 @@ from app.collectors.github import collect_github
 from app.collectors.web import collect_web
 from app.collectors.product_hunt import collect_product_hunt
 from app.collectors.devto import collect_devto
-from app.enrichment.identity_resolution import resolve_identities
+from app.enrichment.identity_resolution import resolve_identities, find_linkedin_url, find_github_username
 from app.models.founder import FounderProfile, FounderInput, Metadata, GitHubData, WebPresence
 
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "../../output")
@@ -19,9 +19,19 @@ async def run_pipeline(input_data: FounderInput) -> FounderProfile:
     sources: list[str] = []
     missing: list[str] = []
 
+    # step 0: auto-discover LinkedIn URL if not provided
+    linkedin_url = input_data.linkedin_url
+    if not linkedin_url:
+        print(f"[pipeline] no LinkedIn URL provided — searching for '{input_data.name}'")
+        linkedin_url = await asyncio.get_event_loop().run_in_executor(
+            None, find_linkedin_url, input_data.name
+        )
+        if not linkedin_url:
+            print(f"[pipeline] LinkedIn URL not found — skipping LinkedIn collection")
+
     # step 1: LinkedIn
-    linkedin_profile = await collect_linkedin(input_data.linkedin_url)
-    if linkedin_profile:
+    linkedin_profile = await collect_linkedin(linkedin_url) if linkedin_url else None
+    if linkedin_profile and linkedin_profile.headline:
         sources.append("linkedin")
     else:
         missing.append("linkedin")
@@ -31,9 +41,14 @@ async def run_pipeline(input_data: FounderInput) -> FounderProfile:
     if linkedin_profile:
         identities = resolve_identities(linkedin_profile)
 
-    github_username: Optional[str] = (
-        input_data.github_username or identities.get("github_username")
-    )
+    github_username: Optional[str] = input_data.github_username or identities.get("github_username")
+
+    # fall back to search if LinkedIn text didn't reveal a GitHub username
+    if not github_username:
+        print(f"[pipeline] no GitHub username in LinkedIn — searching for '{input_data.name}'")
+        github_username = await asyncio.get_event_loop().run_in_executor(
+            None, find_github_username, input_data.name
+        )
     personal_website: Optional[str] = identities.get("personal_website")
     twitter_handle: Optional[str] = identities.get("twitter_handle")
 
